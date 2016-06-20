@@ -6,7 +6,7 @@ int main()
 {
 	printf("哈哈\n");
 	printf("第一次使用Github\n");
-
+	printf("\n");
 
 
 	system("PAUSE");
