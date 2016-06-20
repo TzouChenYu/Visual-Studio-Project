@@ -4,7 +4,7 @@
 
 int main()
 {
-
+	printf("«¢«¢\n");
 
 	system("PAUSE");
 	return 1;
